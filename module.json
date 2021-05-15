@@ -3,7 +3,7 @@
 	"title": "Up the Creek Introductory Adventure Module",
 	"description": "A module containing a compendium pack",
 	"author": "VTT Southwest, LLC",
-	"version": "1.0.0",
+	"version": "1.1",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion":"0.7.9",
 	"packs": [
