@@ -1,0 +1,32 @@
+{
+	"name": "te002-up-the-creek",
+	"title": "Up the Creek Introductory Adventure Module",
+	"description": "A module containing a compendium pack",
+	"author": "VTT Southwest, LLC",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion":"0.7.9",
+	"packs": [
+    		{
+      		"name": "up-the-creek-actors",
+      		"label": "Up the Creek (Actors)",
+      		"path": "packs/up-the-creek-actors.db",
+      		"entity": "Actor",
+      		"module": "te002-up-the-creek"
+			},
+   		{
+      		"name": "up-the-creek-journals",
+      		"label": "Up the Creek (Journals)",
+      		"path": "packs/up-the-creek-journals.db",
+      		"entity": "JournalEntry",
+      		"module": "te002-up-the-creek"
+			},
+   		{
+      		"name": "up-the-creek-scenes",
+      		"label": "Up the Creek (Scenes)",
+      		"path": "packs/up-the-creek-scenes.db",
+      		"entity": "Scene",
+      		"module": "te002-up-the-creek"
+			}
+		]
+}
