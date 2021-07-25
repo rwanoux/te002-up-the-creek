@@ -1,11 +1,11 @@
 {
 	"name": "te002-up-the-creek",
-	"title": "Up the Creek Introductory Adventure Module",
-	"description": "A module containing a compendium pack",
+	"title": "Torg Eternity - Up the Creek Introductory Adventure Module",
+	"description": "An introductory adventure module for Torg Eternity",
 	"author": "VTT Southwest, LLC",
 	"version": "1.1",
 	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion":"0.7.9",
+	"compatibleCoreVersion":"0.8.8",
 	"packs": [
     		{
       		"name": "up-the-creek-actors",
