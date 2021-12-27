@@ -4,8 +4,8 @@
 	"description": "An introductory adventure module for Torg Eternity",
 	"author": "VTT Southwest, LLC",
 	"version": "1.3",
-	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion":"0.8.9",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion":"9",
 	"packs": [
     		{
       		"name": "up-the-creek-actors",
@@ -14,19 +14,29 @@
       		"entity": "Actor",
       		"module": "te002-up-the-creek"
 			},
-   		{
+
+   			{
       		"name": "up-the-creek-journals",
       		"label": "Up the Creek (Journals)",
       		"path": "packs/up-the-creek-journals.db",
       		"entity": "JournalEntry",
       		"module": "te002-up-the-creek"
 			},
-   		{
+   			
+			{
       		"name": "up-the-creek-scenes",
       		"label": "Up the Creek (Scenes)",
       		"path": "packs/up-the-creek-scenes.db",
       		"entity": "Scene",
       		"module": "te002-up-the-creek"
+			},
+
+			{
+				"name": "up-the-creek-cards",
+				"label": "Up the Creek (Cards)",
+				"path": "packs/up-the-creek-cards.db",
+				"entity": "Cards",
+				"module": "te002-up-the-creek"
 			}
 		],
 	"url": "https://github.com/gmmatt/te002-up-the-creek",
