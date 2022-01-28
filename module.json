@@ -37,6 +37,34 @@
 			"path": "packs/up-the-creek-cards.db",
 			"entity": "Cards",
 			"module": "te002-up-the-creek"
+		},
+		{
+			"name": "flussaufwaerts-actors",
+			"label": "Flussaufwärts (Actors)",
+			"path": "packs/de/flussaufwaerts-actors.db",
+			"entity": "Actor",
+			"module": "te002-up-the-creek"
+		},
+		{
+			"name": "flussaufwaerts-journals",
+			"label": "Flussaufwärts (Journaleinträge)",
+			"path": "packs/de/flussaufwaerts-journals.db",
+			"entity": "JournalEntry",
+			"module": "te002-up-the-creek"
+		},
+		{
+			"name": "flussaufwaerts-scenes",
+			"label": "Flussaufwärts (Szenen)",
+			"path": "packs/de/flussaufwaerts-scenes.db",
+			"entity": "Scene",
+			"module": "te002-up-the-creek"
+		},
+		{
+			"name": "flussaufwaerts-cards",
+			"label": "Flussaufwärts (Karten)",
+			"path": "packs/de/flussaufwaerts-cards.db",
+			"entity": "Cards",
+			"module": "te002-up-the-creek"
 		}
 	],
 	"url": "https://github.com/gmmatt/te002-up-the-creek",
